@@ -1,5 +1,5 @@
 # Python-Mouse
-Console game based on Micromouse created in Python.
+A game based on Micromouse created in Python.
 
 I started this out of pure boredom so don't expect a fully finished or working game!
 
