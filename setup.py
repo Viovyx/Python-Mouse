@@ -13,4 +13,11 @@ maze = [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
 
 start = [1, 1]
 finish = [5, 5]
-mice = start
+mouse = []
+mouse += start
+
+
+def print_maze():
+    print("MAZE (1 = wall | 0 = open):\n")
+    for i in maze:
+        print(i)
