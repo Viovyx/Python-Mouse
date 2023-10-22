@@ -4,7 +4,7 @@ A game based on Micromouse created in Python.
 I started this out of pure boredom so don't expect a fully finished or working game!
 
 ## To-Do:
-- [ ] Implement finish
+- [x] Implement finish
 - [ ] Create full auto solver
 
 ## Info
